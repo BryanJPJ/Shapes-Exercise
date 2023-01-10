@@ -1,0 +1,14 @@
+#triangulo:hover {
+    border-bottom:100px solid violet;
+    transform: translateY(-20px);
+}
+
+#cuadrado:hover{
+    background-color: green;
+    transform: translateY(-20px);
+}
+
+#circulo:hover{
+    background-color: black;
+    transform: translateY(-20px);
+}
